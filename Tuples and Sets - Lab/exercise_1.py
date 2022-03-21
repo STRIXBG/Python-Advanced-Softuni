@@ -1,4 +1,4 @@
-# Hot Potato
+# Count Same Values
 
 # Задаване на променливите:
 _input = input().split(' ')
